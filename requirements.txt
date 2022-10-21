@@ -2,7 +2,6 @@ streamlit
 panda
 numpy
 matplotlib
-matplotlib.pyplot
 seaborn
 folium
 Pylance
